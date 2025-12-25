@@ -1,0 +1,14 @@
+
+.idea/
+
+kafka-project-1/.env
+
+kafka-project-1/src/kafka_project_1/__pycache__/
+
+kafka-project-1/src/kafka_project_1/config/__pycache__/
+
+kafka-project-1/tests/
+
+kafka-project-1/poetry.lock
+
+kafka-project-1/pyproject.toml
